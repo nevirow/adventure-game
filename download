@@ -1,0 +1,25 @@
+# ── C++ ──────────────────────────────
+*.o
+*.out
+*.exe
+adventure
+adventure.exe
+
+# Visual Studio bestanden
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+Debug/
+Release/
+x64/
+x86/
+
+# ── OS bestanden ─────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Editor bestanden ─────────────────
+.vscode/
+*.swp
